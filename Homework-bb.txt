@@ -1,2 +1,7 @@
 This is my homework!
 My homework was to create this file and upload to the repo.
+
+My comments for the homework:
+The House class should have one default parameter.
+The very last task is missing one more example to be tested on. 😊 
+Otherwise the homework is totally fine, thank you for your quick and precise work! 
